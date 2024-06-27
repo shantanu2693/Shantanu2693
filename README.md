@@ -2,7 +2,7 @@ Hello, I am Shantanu Sharma. Data Analyst working for the Ministry of External A
 
 ## Projects:
 
-[Portfolio of my projects](README.md)
+[Portfolio of my projects](https://github.com/shantanu2693/Portfolio-Shantanu)
 
 ## Tools:
 
