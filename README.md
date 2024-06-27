@@ -14,6 +14,9 @@ Hello, I am Shantanu Sharma. Data Analyst working for the Ministry of External A
 
 •	Modules and Libraries: Pandas, Numpy, BeautifulSoup ,Scikit, Tensorflow, Node.js
 
+## Certifications:
+
+
 
 ## Connect with me:
 
