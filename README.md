@@ -1,10 +1,10 @@
 Hello, I am Shantanu Sharma. Data Analyst working for the Ministry of External Affairs, Government of India with proficiency in Data wrangling, Data modelling, Data visualizations, Reporting, and Querying.
 
-Projects:
+## Projects:
 
-Portfolio
+[Portfolio of my projects](README.md)
 
-Tools:
+## Tools:
 
 •	Data Analysis: Excel, Google Sheets
 
@@ -15,7 +15,7 @@ Tools:
 •	Modules and Libraries: Pandas, Numpy, BeautifulSoup ,Scikit, Tensorflow, Node.js
 
 
-Connect with me:
+## Connect with me:
 
 Linkedin: https://www.linkedin.com/in/shantanu-sharma-616815a6/
  
