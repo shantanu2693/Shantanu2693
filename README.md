@@ -12,7 +12,7 @@ Hello, I am Shantanu Sharma. Data Analyst working for the Ministry of External A
 
 •	Programming languages: Python, C,C++, HTML, CSS, Javascript
 
-•	Modules and Libraries: Scikit learn, Polars, BeautifulSoup ,Scipy, Tensorflow, Pandas, Numpy, Matplotlib, Seaborn, Node.js
+•	Modules and Libraries: Scikit-learn, Polars, BeautifulSoup ,Scipy, Tensorflow, Pandas, Numpy, Matplotlib, Seaborn, Node.js
 
 ## Connect with me:
 
