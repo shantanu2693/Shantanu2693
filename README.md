@@ -10,7 +10,7 @@ Hello, I am Shantanu Sharma. Data Analyst working for the Ministry of External A
 
 •	Data Visualization: Tableau, Google Looker Studio
 
-•	Programming languages: Python, C,C++, HTML, CSS, Javascript
+•	Programming languages: Python,C,C++, HTML, CSS, Javascript
 
 •	Modules and Libraries: PyTorch, Scikit-learn, Pyperch, Polars, Seaborn, BeautifulSoup ,Scipy, Pandas, Numpy, Matplotlib, Node.js
 
