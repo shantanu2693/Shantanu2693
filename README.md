@@ -1,4 +1,4 @@
-Hello, I am Shantanu Sharma. Data Analyst working for the Ministry of External Affairs, Government of India with proficiency in Data wrangling, Data modelling, Data visualizations, Reporting, and Querying.
+Hello, I am Shantanu Sharma. Data Analyst working for the Ministry of External Affairs, Government of India with proficiency in Data wrangling, Data modelling, Data visualizations, Reporting, and Querying..
 
 ## Projects:
 
