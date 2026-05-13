@@ -12,7 +12,7 @@ Hello, I am Shantanu Sharma. Software developer working for the Ministry of Exte
 
 •	Programming languages: Python,C,C++, HTML, CSS, Javascript
 
-•	Modules and Libraries: PyTorch, Librosa, Miditok , Pretty MIDI, Scikit-learn, Pyperch, Polars, Seaborn, BeautifulSoup ,Scipy, Pandas, Numpy, Matplotlib, Node.js
+•	Modules and Libraries: PyTorch, Librosa, Miditok , Pretty MIDI, Pydantic, Scikit-learn, Pyperch, Polars, Seaborn, BeautifulSoup ,Scipy, Pandas, Numpy, Matplotlib, Node.js
 
 ## Connect with me:
 
