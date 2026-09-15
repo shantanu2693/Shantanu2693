@@ -1,14 +1,10 @@
-Hello, I am Shantanu Sharma. Software developer working for the Ministry of External Affairs, Government of India.
+Hello, I am Shantanu Sharma, software developer working for the Ministry of External Affairs, Government of India.
 
 ## Projects:
 
 [Portfolio of my projects](https://github.com/shantanu2693/Portfolio-Shantanu)
 
 ## Tools:
-
-•	Data Analysis: Excel, Google Sheets
-
-•	Data Visualization: Tableau, Google Looker Studio
 
 •	Programming languages: Python,C,C++, HTML, CSS, Javascript
 
